@@ -1,6 +1,6 @@
 # Motorcycle USB Charger
 
-USB charger for motorcycle, so you never run out of battery on your devices.
+USB charger for motorcycle, so your devices never run out of battery.
 
 PARTS:
 
