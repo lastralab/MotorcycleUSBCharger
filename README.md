@@ -52,8 +52,6 @@ This is how it looks finished:
 
 ![14523168_990327981075561_7859024500255698031_n](https://cloud.githubusercontent.com/assets/22894897/22802183/1b0ae884-eecd-11e6-907e-36b0f3cc233b.jpg)
 
-![14517410_990328011075558_3259123639318620636_n](https://cloud.githubusercontent.com/assets/22894897/22802187/1dc0f8fc-eecd-11e6-8723-5c26a06ebb5c.jpg)
-
 Charging phone:
 
 ![whatsapp image 2017-02-09 at 14 13 57](https://cloud.githubusercontent.com/assets/22894897/22803420/1356b1f4-eed2-11e6-9f4e-21cbebae60c9.jpeg)
