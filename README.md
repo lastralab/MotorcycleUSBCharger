@@ -55,3 +55,5 @@ This is how it looks finished:
 Charging phone:
 
 ![whatsapp image 2017-02-09 at 14 13 57](https://cloud.githubusercontent.com/assets/22894897/22803420/1356b1f4-eed2-11e6-9f4e-21cbebae60c9.jpeg)
+
+ENJOY THE ROAD!
