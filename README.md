@@ -32,7 +32,7 @@ More Wires and soldering iron
 
 Sketch:
 
-<img width="927" alt="screenshot 2017-02-09 13 34 58" src="https://cloud.githubusercontent.com/assets/22894897/22802153/fbf61c02-eecc-11e6-8a03-099524a86826.png">
+<img width="927" alt="screenshot 2017-02-09 13 34 58" src="https://cloud.githubusercontent.com/assets/22894897/22802915/f8da8bea-eecf-11e6-9572-d559a52816c5.png">
 
 This is how you wire the whole thing if you don't have a charger.
 
