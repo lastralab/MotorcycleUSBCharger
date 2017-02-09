@@ -44,11 +44,7 @@ Sketch:
 
 <img width="766" alt="screenshot 2017-02-09 13 37 14" src="https://cloud.githubusercontent.com/assets/22894897/22803269/7c4316fe-eed1-11e6-8733-a5cd8b786342.png">
 
-This is how you wire the charger to the battery.
-
-To use it you press the switch (motorcycle started), and press it back after so the battery won't discharge.
-
-The LED should turn on when it is ready to be used.
+To use it you press the switch (motorcycle started), and press it back after so the battery won't discharge. And the LED should turn on when it is ready to be used.
 
 This is how it looks finished:
 
