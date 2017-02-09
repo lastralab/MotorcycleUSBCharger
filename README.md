@@ -42,7 +42,7 @@ Polarity for the socket:
 
 Sketch:
 
-<img width="927" alt="screenshot 2017-02-09 13 34 58" src="https://cloud.githubusercontent.com/assets/22894897/22802915/f8da8bea-eecf-11e6-9572-d559a52816c5.png">
+<img width="766" alt="screenshot 2017-02-09 13 37 14" src="https://cloud.githubusercontent.com/assets/22894897/22803269/7c4316fe-eed1-11e6-8733-a5cd8b786342.png">
 
 This is how you wire the charger to the battery.
 
