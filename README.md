@@ -2,7 +2,7 @@
 
 USB charger for motorcycle, so your devices never run out of battery.
 
-PARTS:
+CRUCIAL PARTS:
 
 Motorcycle with 12V battery
 
@@ -30,13 +30,11 @@ LED any color
 
 More Wires and soldering iron
 
-Sketch:
+This is how you wire the whole thing if you don't have a car charger.
 
 <img width="927" alt="screenshot 2017-02-09 13 34 58" src="https://cloud.githubusercontent.com/assets/22894897/22802915/f8da8bea-eecf-11e6-9572-d559a52816c5.png">
 
-This is how you wire the whole thing if you don't have a charger.
-
-Polarity for the socket:
+If you do, this is the polarity for the charger:
 
 ![cigarette_lighter_plug_2](https://cloud.githubusercontent.com/assets/22894897/22803050/8ffe3de6-eed0-11e6-9b78-e557968e2923.jpg)
 
