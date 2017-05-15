@@ -53,5 +53,5 @@ Charging phone:
 
 ENJOY THE ROAD!
 
-<div style="text-align:center">![raj7htak04gzo](https://cloud.githubusercontent.com/assets/22894897/26071018/0fe11370-397d-11e7-9c42-7ca7ecc60829.gif)</div>
+<div style="text-align:center"><img src="https://cloud.githubusercontent.com/assets/22894897/26071018/0fe11370-397d-11e7-9c42-7ca7ecc60829.gif"></div>
 
