@@ -8,8 +8,6 @@ Motorcycle with 12V battery
 
 Car charger socket (if you have one).
 
-![high-quality-universal-smart-fuse-circuit-breaker-protection-dual-usb-port-5v-4-2a-car-charger](https://cloud.githubusercontent.com/assets/22894897/22802436/0e255c20-eece-11e6-9d43-8f5f08ae4ecc.jpg)
-
 Fuse 20amps
 
 Switch
@@ -30,7 +28,7 @@ LED any color
 
 More Wires and soldering iron
 
-This is how you wire the whole thing if you don't have a car charger.
+This is how you wire the whole thing if you don't have a car adapter.
 
 <img width="927" alt="screenshot 2017-02-09 13 34 58" src="https://cloud.githubusercontent.com/assets/22894897/22802915/f8da8bea-eecf-11e6-9572-d559a52816c5.png">
 
@@ -55,3 +53,6 @@ Charging phone:
 ![whatsapp image 2017-02-09 at 14 13 57](https://cloud.githubusercontent.com/assets/22894897/22803420/1356b1f4-eed2-11e6-9f4e-21cbebae60c9.jpeg)
 
 ENJOY THE ROAD!
+
+![raj7htak04gzo](https://cloud.githubusercontent.com/assets/22894897/26071018/0fe11370-397d-11e7-9c42-7ca7ecc60829.gif)
+
