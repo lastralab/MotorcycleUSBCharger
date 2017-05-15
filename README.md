@@ -30,15 +30,14 @@ More Wires and soldering iron
 
 This is how you wire the whole thing if you don't have a car adapter.
 
-<img width="927" alt="screenshot 2017-02-09 13 34 58" src="https://cloud.githubusercontent.com/assets/22894897/22802915/f8da8bea-eecf-11e6-9572-d559a52816c5.png">
-
+<div style="text-align:center"><img width="927" alt="screenshot 2017-02-09 13 34 58" src="https://cloud.githubusercontent.com/assets/22894897/22802915/f8da8bea-eecf-11e6-9572-d559a52816c5.png"></div>
 If you do, this is the polarity for the charger:
 
 ![cigarette_lighter_plug_2](https://cloud.githubusercontent.com/assets/22894897/22803050/8ffe3de6-eed0-11e6-9b78-e557968e2923.jpg)
 
 Sketch:
 
-<img width="766" alt="screenshot 2017-02-09 13 37 14" src="https://cloud.githubusercontent.com/assets/22894897/22803269/7c4316fe-eed1-11e6-8733-a5cd8b786342.png">
+<div style="text-align:center"><img width="766" alt="screenshot 2017-02-09 13 37 14" src="https://cloud.githubusercontent.com/assets/22894897/22803269/7c4316fe-eed1-11e6-8733-a5cd8b786342.png"></div>
 
 To use it you press the switch (motorcycle started), and press it back after so the battery won't discharge. And the LED should turn on when it is ready to be used.
 
@@ -54,5 +53,5 @@ Charging phone:
 
 ENJOY THE ROAD!
 
-![raj7htak04gzo](https://cloud.githubusercontent.com/assets/22894897/26071018/0fe11370-397d-11e7-9c42-7ca7ecc60829.gif)
+<div style="text-align:center">![raj7htak04gzo](https://cloud.githubusercontent.com/assets/22894897/26071018/0fe11370-397d-11e7-9c42-7ca7ecc60829.gif)</div>
 
