@@ -47,7 +47,7 @@ This is how it looks finished:
 
 Charging phone:
 
-<div style="text-align:center"><img width="50%" height="50%" src="https://cloud.githubusercontent.com/assets/22894897/22803420/1356b1f4-eed2-11e6-9f4e-21cbebae60c9.jpeg"></div>
+<img width="50%" height="50%" src="https://cloud.githubusercontent.com/assets/22894897/22803420/1356b1f4-eed2-11e6-9f4e-21cbebae60c9.jpeg">
 
 ENJOY THE ROAD!
 
