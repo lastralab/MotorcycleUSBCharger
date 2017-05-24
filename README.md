@@ -30,26 +30,24 @@ More Wires and soldering iron
 
 This is how you wire the whole thing if you don't have a car adapter.
 
-<div style="text-align:center"><img width="927" alt="screenshot 2017-02-09 13 34 58" src="https://cloud.githubusercontent.com/assets/22894897/22802915/f8da8bea-eecf-11e6-9572-d559a52816c5.png"></div>
+<div style="text-align:center"><img alt="screenshot" width="50%" height="50%" src="https://cloud.githubusercontent.com/assets/22894897/22802915/f8da8bea-eecf-11e6-9572-d559a52816c5.png"></div>
 If you do, this is the polarity for the charger:
 
 ![cigarette_lighter_plug_2](https://cloud.githubusercontent.com/assets/22894897/22803050/8ffe3de6-eed0-11e6-9b78-e557968e2923.jpg)
 
 Sketch:
 
-<div style="text-align:center"><img width="766" alt="screenshot 2017-02-09 13 37 14" src="https://cloud.githubusercontent.com/assets/22894897/22803269/7c4316fe-eed1-11e6-8733-a5cd8b786342.png"></div>
+<div style="text-align:center"><img width="50%" height="50%" alt="screenshot 2017-02-09 13 37 14" src="https://cloud.githubusercontent.com/assets/22894897/22803269/7c4316fe-eed1-11e6-8733-a5cd8b786342.png"></div>
 
 To use it you press the switch (motorcycle started), and press it back after so the battery won't discharge. And the LED should turn on when it is ready to be used.
 
 This is how it looks finished:
 
-![whatsapp image 2017-02-09 at 12 34 45](https://cloud.githubusercontent.com/assets/22894897/22802182/18a64e8a-eecd-11e6-82b9-646244b5e948.jpeg)
-
-![14523168_990327981075561_7859024500255698031_n](https://cloud.githubusercontent.com/assets/22894897/22802183/1b0ae884-eecd-11e6-907e-36b0f3cc233b.jpg)
+<div style="text-align:center"><img width="50%" height="50%" src="https://cloud.githubusercontent.com/assets/22894897/22802182/18a64e8a-eecd-11e6-82b9-646244b5e948.jpeg"><img width="50%" height="50%" src="https://cloud.githubusercontent.com/assets/22894897/22802183/1b0ae884-eecd-11e6-907e-36b0f3cc233b.jpg"></div>
 
 Charging phone:
 
-![whatsapp image 2017-02-09 at 14 13 57](https://cloud.githubusercontent.com/assets/22894897/22803420/1356b1f4-eed2-11e6-9f4e-21cbebae60c9.jpeg)
+<div style="text-align:center"><img width="50%" height="50%" src="https://cloud.githubusercontent.com/assets/22894897/22803420/1356b1f4-eed2-11e6-9f4e-21cbebae60c9.jpeg"></div>
 
 ENJOY THE ROAD!
 
