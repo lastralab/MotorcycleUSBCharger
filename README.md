@@ -30,14 +30,14 @@ More Wires and soldering iron
 
 This is how you wire the whole thing if you don't have a car adapter.
 
-<div style="text-align:center"><img alt="screenshot" width="50%" height="50%" src="https://cloud.githubusercontent.com/assets/22894897/22802915/f8da8bea-eecf-11e6-9572-d559a52816c5.png"></div>
+<div style="text-align:center"><img alt="screenshot" width="80%" height="80%" src="https://cloud.githubusercontent.com/assets/22894897/22802915/f8da8bea-eecf-11e6-9572-d559a52816c5.png"></div>
 If you do, this is the polarity for the charger:
 
-![cigarette_lighter_plug_2](https://cloud.githubusercontent.com/assets/22894897/22803050/8ffe3de6-eed0-11e6-9b78-e557968e2923.jpg)
+<img src="https://cloud.githubusercontent.com/assets/22894897/22803050/8ffe3de6-eed0-11e6-9b78-e557968e2923.jpg" width="60%" height="60%"/>
 
 Sketch:
 
-<div style="text-align:center"><img width="50%" height="50%" alt="screenshot 2017-02-09 13 37 14" src="https://cloud.githubusercontent.com/assets/22894897/22803269/7c4316fe-eed1-11e6-8733-a5cd8b786342.png"></div>
+<div style="text-align:center"><img width="80%" height="80%" alt="screenshot 2017-02-09 13 37 14" src="https://cloud.githubusercontent.com/assets/22894897/22803269/7c4316fe-eed1-11e6-8733-a5cd8b786342.png"></div>
 
 To use it you press the switch (motorcycle started), and press it back after so the battery won't discharge. And the LED should turn on when it is ready to be used.
 
