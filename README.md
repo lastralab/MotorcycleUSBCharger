@@ -47,5 +47,5 @@ This is how it looks finished:
 
 ENJOY THE ROAD!
 
-<img width="50%" height="50%" src="https://cloud.githubusercontent.com/assets/22894897/22802182/18a64e8a-eecd-11e6-82b9-646244b5e948.jpeg"><img src="https://cloud.githubusercontent.com/assets/22894897/26071018/0fe11370-397d-11e7-9c42-7ca7ecc60829.gif">
+<img width="40%" height="40%" src="https://cloud.githubusercontent.com/assets/22894897/22802182/18a64e8a-eecd-11e6-82b9-646244b5e948.jpeg"><img src="https://cloud.githubusercontent.com/assets/22894897/26071018/0fe11370-397d-11e7-9c42-7ca7ecc60829.gif">
 
