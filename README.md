@@ -49,4 +49,6 @@ ENJOY THE ROAD!
 
 <img width="70%" height="70%" src="https://cloud.githubusercontent.com/assets/22894897/22802182/18a64e8a-eecd-11e6-82b9-646244b5e948.jpeg"><img src="https://cloud.githubusercontent.com/assets/22894897/26071018/0fe11370-397d-11e7-9c42-7ca7ecc60829.gif">
 
-<p align="center">Powered by <b>L'Astra Lab<b><br><a href="https://taniamol.github.io/website/" target="_blank"><button><img src="http://i.imgur.com/IvXPn8z.png" alt="l'astra lab icon" width="50px" background="transparent" opacity="0.5" padding="0;"/></button></a></p><br>
+<br>
+<br>
+<p align="center">Powered by <b>L'Astra Lab<b><br><a href="https://taniamol.github.io/website/" target="_blank"><br><button><img src="http://i.imgur.com/ERyS5Xn.png" alt="l'astra lab icon" width="50px" background="transparent" opacity="0.5" padding="0;"/></button></a></p><br><br>
